@@ -1,13 +1,28 @@
+name: evmeerkat.com
+favicon: null
 layout_spectrum: 0.9910395
+typography_spectrum: 0
+title: Evmeerkat.com
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.07885305
-  lightness: 0.9336917
   brandColors:
     - '#0C0C0C'
     - '#808080'
     - '#5C5C5C'
     - '#FBFBFB'
+  brandStrength: 0.07885305
+  lightness: 0.9336917
+  saturation: 1
   rhythmicContrast: 0.2775588
-typography_spectrum: 0
-name: evmeerkat.com
+purpose: []
